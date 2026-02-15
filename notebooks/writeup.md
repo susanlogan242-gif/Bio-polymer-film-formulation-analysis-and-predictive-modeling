@@ -127,4 +127,6 @@ This project used Claude Code (Anthropic's CLI) for:
 - Multicollinearity analysis and feature selection rationale
 
 Example prompts used:
-- TODO: Include excerpts of your AI tool inputs
+- "flag (not remove) physics-based anomalies like "high sorbitol but high strength" since they might be unique cases"
+- "fix unreadable boxplots, overlapping titles, switch to Plotly, make plots insightful not decorative"
+- "The random forest model does not appear to be the best model for predicting tensile strength, please expand the types of models tested and train the model that best fits each target propety."
