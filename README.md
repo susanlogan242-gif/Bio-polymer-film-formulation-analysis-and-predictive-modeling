@@ -1,4 +1,4 @@
-# Materiom - Computational Materials Science Assessment
+# Bio-polymer film formulation analysis and predictive modeling
 
 ## Overview
 Bio-based film formulation analysis and predictive modeling for chitin nanofiber / montmorillonite clay / sorbitol / gelatin composite films. The goal is to identify optimal formulations for a transparent, mechanically robust packaging film and build predictive models for key material properties.
