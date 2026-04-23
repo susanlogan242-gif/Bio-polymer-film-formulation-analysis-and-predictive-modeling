@@ -1,5 +1,5 @@
 """
-Prediction entrypoint for Materiom assessment.
+Prediction entrypoint for BioFilm assessment.
 
 Usage:
     python predict.py --input data/holdout_dataset.csv --output results/predictions.csv
