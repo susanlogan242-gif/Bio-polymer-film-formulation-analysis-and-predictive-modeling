@@ -19,8 +19,8 @@ Developing a bio-based film to replace traditional synthetic "window" laminates 
 
 ```
 ├── data/
-│   ├── materiom_dataset.csv       # Raw data (143 samples)
-│   └── materiom_clean.csv         # Cleaned data (130 samples)
+│   ├── biofilm_dataset.csv       # Raw data (143 samples)
+│   └── biofilm_clean.csv         # Cleaned data (130 samples)
 ├── models/                        # Serialised model files (.pkl)
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
@@ -155,3 +155,4 @@ Optical transmission is left-skewed (skewness = −1.82). Three transforms teste
 | Visualisation | Matplotlib, Seaborn |
 | Notebooks | Jupyter |
 | Serialisation | joblib / pickle |
+| AI Coding Assistant | Claude Code (Anthropic) |
