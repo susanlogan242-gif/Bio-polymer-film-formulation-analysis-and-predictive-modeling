@@ -1,4 +1,4 @@
-"""Shared utility functions for Materiom Take Home Assessment notebooks.
+"""Shared utility functions for BioFilm Take Home Assessment notebooks.
 
 Usage in any notebook:
     from utils import *
@@ -27,8 +27,8 @@ warnings.filterwarnings("ignore")
 RANDOM_STATE = 42
 np.random.seed(RANDOM_STATE)
 
-DATA_PATH = "../data/materiom_dataset.csv"
-CLEAN_DATA_PATH = "../data/materiom_clean.csv"
+DATA_PATH = "../data/biofilm_dataset.csv"
+CLEAN_DATA_PATH = "../data/biofilm_clean.csv"
 
 # Formulation ingredients (inputs)
 INGREDIENT_COLS = [
