@@ -156,3 +156,8 @@ Optical transmission is left-skewed (skewness = −1.82). Three transforms teste
 | Notebooks | Jupyter |
 | Serialisation | joblib / pickle |
 | AI Coding Assistant | Claude Code (Anthropic) |
+
+---
+
+## Licence
+This project is licensed under the AGPL-3.0 licence. See the [LICENSE](LICENSE) file for details.
